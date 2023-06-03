@@ -6,6 +6,7 @@
 
 def set_vetor():
     vetor = []
+    print("Iniciando setup de vetor.\n")
     for i in range(20):
         while True:
             try:
